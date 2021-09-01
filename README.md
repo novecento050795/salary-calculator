@@ -9,5 +9,5 @@
 8) php artisan serve start project
 
 ## Route list
-/api/calculate - GET
-/api/store - POST
+1) /api/calculate - GET
+2) /api/store - POST
